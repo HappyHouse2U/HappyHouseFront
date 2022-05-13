@@ -1,8 +1,12 @@
 <template>
   <div id="app">
-    <menu-bar></menu-bar>
-    <router-view />
-    <footer-bar></footer-bar>
+    <body class="d-flex flex-column h-100">
+      <main class="flex-shrink-0">
+        <menu-bar></menu-bar>
+        <router-view />
+        <footer-bar></footer-bar>
+      </main>
+    </body>
   </div>
 </template>
 <script>
