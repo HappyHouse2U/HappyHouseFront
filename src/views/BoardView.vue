@@ -1,9 +1,11 @@
 <template>
   <div>
-    <h1>홈화면입니다.</h1>
+    <h1>공지사항 페이지</h1>
   </div>
 </template>
 
 <script>
 export default {};
 </script>
+
+<style></style>
