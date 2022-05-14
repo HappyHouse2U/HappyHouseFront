@@ -4,7 +4,7 @@ import HomeView from "../views/HomeView.vue";
 import AptListView from "../views/AptListView.vue";
 import RegListView from "../views/RegListView.vue";
 import NewsListView from "../views/NewsListView.vue";
-import BoardView from "../views/BoardView.vue";
+import BoardView from "../views/board/BoardView.vue";
 
 Vue.use(VueRouter);
 
